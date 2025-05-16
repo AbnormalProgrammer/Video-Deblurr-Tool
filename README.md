@@ -29,10 +29,10 @@ realesrgan==0.3.0  # 实际超分辨率模型实现，负责视频模糊变高�
 3. 运行增强脚本：
 python video_enhancer.py -i 输入视频路径 -o 输出视频路径
 
-示例（Windows）：
+示例（Windows）：<br>
 python video_enhancer.py -i C:\Users\Stroman\Downloads\original.mp4 -o C:\Users\Stroman\Downloads\result.mp4
 
-示例（MacOS）：
+示例（MacOS）：<br>
 python video_enhancer.py -i /Users/Stroman/Downloads/original.mp4 -o /Users/Stroman/Downloads/result.mp4
 
 ## 图形化界面使用说明
