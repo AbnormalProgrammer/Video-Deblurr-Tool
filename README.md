@@ -35,10 +35,6 @@ python video_enhancer.py -i C:\Users\Stroman\Downloads\original.mp4 -o C:\Users\
 示例（MacOS）：
 python video_enhancer.py -i /Users/Stroman/Downloads/original.mp4 -o /Users/Stroman/Downloads/result.mp4
 
-示例（缺省参数）：
-python video_enhancer.py  # 使用默认输入路径：C:\Users\Stroman\Downloads\original.mp4，默认输出路径：C:\Users\Stroman\Downloads\result.mp4（Windows）
-python video_enhancer.py  # 使用默认输入路径：/Users/Stroman/Downloads/original.mp4，默认输出路径：/Users/Stroman/Downloads/result.mp4（MacOS）
-
 ## 图形化界面使用说明
 ### 启动方法
 运行以下命令启动图形化界面：
